@@ -3,10 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package br.unir.run;
+package run;
 
-import br.unir.dao.ContatoDao;
-import br.unir.model.Contato;
+import dao.ContatoDao;
+import model.Contato;
 import java.util.List;
 
 /**

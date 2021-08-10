@@ -3,10 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package br.unir.dao;
+package dao;
 
-import br.unir.model.Contato;
-import br.unir.util.ConnectionFactory;
+import model.Contato;
+import util.ConnectionFactory;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
